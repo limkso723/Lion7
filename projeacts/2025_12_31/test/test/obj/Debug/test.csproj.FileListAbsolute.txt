@@ -1,0 +1,8 @@
+E:\멋쟁이사자처럼\projeacts\2025_12_31\test\test\bin\Debug\test.exe.config
+E:\멋쟁이사자처럼\projeacts\2025_12_31\test\test\bin\Debug\test.exe
+E:\멋쟁이사자처럼\projeacts\2025_12_31\test\test\bin\Debug\test.pdb
+E:\멋쟁이사자처럼\projeacts\2025_12_31\test\test\obj\Debug\test.csproj.AssemblyReference.cache
+E:\멋쟁이사자처럼\projeacts\2025_12_31\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+E:\멋쟁이사자처럼\projeacts\2025_12_31\test\test\obj\Debug\test.exe
+E:\멋쟁이사자처럼\projeacts\2025_12_31\test\test\obj\Debug\test.pdb
+E:\멋쟁이사자처럼\projeacts\2025_12_31\test\test\obj\Debug\test.exe.config
