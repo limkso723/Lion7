@@ -1,0 +1,8 @@
+E:\github\Lion7\Lion7\projeacts\2026_01_07\for_1\for_1\bin\Debug\for_1.exe.config
+E:\github\Lion7\Lion7\projeacts\2026_01_07\for_1\for_1\bin\Debug\for_1.exe
+E:\github\Lion7\Lion7\projeacts\2026_01_07\for_1\for_1\bin\Debug\for_1.pdb
+E:\github\Lion7\Lion7\projeacts\2026_01_07\for_1\for_1\obj\Debug\for_1.csproj.AssemblyReference.cache
+E:\github\Lion7\Lion7\projeacts\2026_01_07\for_1\for_1\obj\Debug\for_1.csproj.CoreCompileInputs.cache
+E:\github\Lion7\Lion7\projeacts\2026_01_07\for_1\for_1\obj\Debug\for_1.exe
+E:\github\Lion7\Lion7\projeacts\2026_01_07\for_1\for_1\obj\Debug\for_1.pdb
+E:\github\Lion7\Lion7\projeacts\2026_01_07\for_1\for_1\obj\Debug\for_1.exe.config
